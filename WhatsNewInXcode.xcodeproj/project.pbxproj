@@ -419,6 +419,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = B32ZER8L86;
 				INFOPLIST_FILE = WhatsNewInXcode/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.infobeans.WhatsNewInXcode;
@@ -432,6 +433,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = B32ZER8L86;
 				INFOPLIST_FILE = WhatsNewInXcode/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.infobeans.WhatsNewInXcode;
@@ -518,6 +520,7 @@
 				93DCAD381F672F760020F9CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		93DCAD391F672F760020F9CD /* Build configuration list for PBXNativeTarget "WhatsNewInXcodeTests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +529,7 @@
 				93DCAD3B1F672F760020F9CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		93DCAD3C1F672F760020F9CD /* Build configuration list for PBXNativeTarget "WhatsNewInXcodeUITests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +538,7 @@
 				93DCAD3E1F672F760020F9CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
