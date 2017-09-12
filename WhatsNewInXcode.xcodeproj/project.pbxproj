@@ -47,6 +47,7 @@
 		93DCAD2D1F672F760020F9CD /* WhatsNewInXcodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WhatsNewInXcodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		93DCAD311F672F760020F9CD /* WhatsNewInXcodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatsNewInXcodeUITests.swift; sourceTree = "<group>"; };
 		93DCAD331F672F760020F9CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		93E91D331F67CCC900CA36D7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		93DCAD051F672F760020F9CD = {
 			isa = PBXGroup;
 			children = (
+				93E91D331F67CCC900CA36D7 /* README.md */,
 				93DCAD101F672F760020F9CD /* WhatsNewInXcode */,
 				93DCAD251F672F760020F9CD /* WhatsNewInXcodeTests */,
 				93DCAD301F672F760020F9CD /* WhatsNewInXcodeUITests */,
